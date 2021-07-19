@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>background.vert</file>
+        <file>background.frag</file>
+        <file>trajectory.vert</file>
+        <file>trajectory.frag</file>
+    </qresource>
+</RCC>
